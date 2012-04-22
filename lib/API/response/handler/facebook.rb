@@ -1,6 +1,4 @@
 # -*- encoding : utf-8 -*-
-require 'json'
-require 'API/response/handler/base'
 
 module API
   module Response

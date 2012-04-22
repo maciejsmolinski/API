@@ -1,7 +1,4 @@
 # -*- encoding : utf-8 -*-
-require 'API/client/facebook'
-require 'API/modules/facebook'
-require 'API/response/handler/facebook'
 
 module API
 
